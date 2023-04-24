@@ -1,9 +1,5 @@
 # ResumizePro
 
-Sure, here's a template for a README.md file for your resume builder project:
-
-# ResumizePro
-
 ResumizePro: create a professional resume in minutes by importing data from LinkedIn and customizing templates.
 
 ## Description
@@ -20,22 +16,16 @@ Create a professional resume in minutes with ResumizePro, a user-friendly online
 
 ## Technologies Used
 
-[List the main technologies and frameworks that you used to build your project.]
+HTML5, CSS3, SCSS, Vanilla JS
 
 ## Contributors
 
-[Include a list of contributors to your project, if any, along with their GitHub usernames.]
+- [@codemonkey-sagar](https://github.com/codemonkey-sagar)
 
 ## License
 
-[Specify the license that you're releasing your project under.]
-
-## Acknowledgements
-
-[Include any acknowledgements or credits for external libraries, tools, or resources that you used in your project.]
+MIT
 
 ## Support
-
-[Provide a way for users to get in touch with you if they have questions, feedback, or issues with your project.]
 
 Feel free to customize this template to fit your project's specific needs. Good luck with your project!
