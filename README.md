@@ -6,13 +6,13 @@ ResumizePro: create a professional resume in minutes by importing data from Link
 
 Create a professional resume in minutes with ResumizePro, a user-friendly online resume builder that allows you to import data from LinkedIn and choose from customizable templates.
 
-## Installation
+<!-- ## Installation
 
 [Provide instructions on how to install and run your project locally.]
 
 ## Usage
 
-[Provide instructions on how to use your project, including how to input data, customize the template, and export the final resume.]
+[Provide instructions on how to use your project, including how to input data, customize the template, and export the final resume.] -->
 
 ## Technologies Used
 
@@ -25,6 +25,10 @@ HTML5, CSS3, SCSS, Vanilla JS
 ## License
 
 MIT
+
+<!-- ## Acknowledgements
+
+[Include any acknowledgements or credits for external libraries, tools, or resources that you used in your project.] -->
 
 ## Support
 
