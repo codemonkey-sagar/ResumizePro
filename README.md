@@ -30,6 +30,6 @@ MIT
 
 [Include any acknowledgements or credits for external libraries, tools, or resources that you used in your project.] -->
 
-## Support
+<!-- ## Support
 
-Feel free to customize this template to fit your project's specific needs. Good luck with your project!
+Feel free to customize this template to fit your project's specific needs. Good luck with your project! -->
